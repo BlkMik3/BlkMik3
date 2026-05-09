@@ -15,8 +15,8 @@ As the Çipher §age, I go deep in grinding through hard problems, shipping wild
 ### 🍦 What I'm Building Right Now
 
 🔭 **[Taste of Freedom](https://github.com/TheCipherSage/TasteOfFreedom)** — Ice cream brand platform (menu, ordering, business logic)  
-🌐 **TheCipherSage.github.io** — Personal developer portfolio *(coming soon)*  
-📚 **CS @ Weber State** — Second year, going deep on fundamentals and theory
+🌐 **[TheCipherSage.github.io](https://theciphersage.github.io)** — Personal developer portfolio *(coming soon)*  
+📚 **[CS @ Weber State](https://weber-dad89.github.io)** — Second year, going deep on fundamentals and theory
 
 ---
 
