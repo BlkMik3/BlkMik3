@@ -1,0 +1,33 @@
+Category,Element,Current Value / Setting,Notes
+Identity,Display Name,Çipher §age,Uses special characters Ç and §
+Identity,GitHub Username,TheCipherSage,
+Identity,Profile Tagline,"Clean architecture, subtle lore, and code that feels intentional.",In blockquote under name
+Identity,Role Description,Second-year CS student at Weber State + founder of Taste of Freedom,
+Bio,Who I Am section,"CS student, self-taught dev, codes for the love of the craft, Taste of Freedom founder",
+Bio,Personality line,"Still early in the game, enjoying the path to mastery",
+Projects,Project 1,Taste of Freedom - github.com/TheCipherSage/TasteOfFreedom,Ice cream brand platform
+Projects,Project 2,TheCipherSage.github.io - Personal developer portfolio (coming soon),
+Projects,Project 3,CS @ Weber State - weber-dad89.github.io,Second year fundamentals
+Tech Stack,Languages/Tools,"HTML5, CSS3, JavaScript, Python, Git, VS Code",shield.io badges
+GitHub Stats,Stats Card Theme,tokyonight,
+GitHub Stats,Stats BG Color,#0d1117,
+GitHub Stats,Stats Title Color,#4f98a3,Teal accent
+GitHub Stats,Stats Icon Color,#4f98a3,Teal accent
+GitHub Stats,Stats Text Color,#cdccca,Muted warm white
+GitHub Stats,hide_border,true,
+GitHub Stats,rank_icon,github,
+GitHub Stats,cache_seconds,1800,
+Connect,Email Badge,xCipherSagex@gmail.com,shield.io flat-square style
+Connect,GitHub Badge,TheCipherSage,shield.io flat-square style
+Connect,Badge Color,#4f98a3,Teal
+Profile View Counter,Provider,komarev.com/ghpvc,
+Profile View Counter,Color,#4f98a3,Teal
+Profile View Counter,Style,flat-square,
+Footer,Closing Line,This journey is just getting started. 🚀,Centered italic
+Syntax Pantheon,Cipher Sage Tagline,"Code is poetry. Systems are symphonies.",
+Syntax Pantheon,Byte Prophet Tagline,"Every bug is just a misunderstood feature.",
+Syntax Pantheon,Future Fusion,"Echo Rune (Cipher Sage + Byte Prophet)",To be developed later
+Design Vibe,Color Scheme,"Dark green (#0d1117 bg) + orange neon accents + teal (#4f98a3)",Matches profile pic
+Design Vibe,Visual Style,"Matrix-style code rain, glitch textures, circuit board",
+Design Vibe,Calling Card,"ASCII art, hidden haikus in source, splash screens",
+Design Vibe,Signature Glyph,"+/|_°_|\+",Footer / easter egg
