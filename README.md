@@ -6,9 +6,9 @@
 
 ### 🧠 Who I Am
 
-I'm a first-year Computer Science student at **Weber State University** and a self-taught developer on a journey to build things that actually matter. Outside the classroom, I'm the founder of **Taste of Freedom** 🍦 — an ice cream business concept I'm building from the ground up, using code as much as cream.
+I'm a second-year Computer Science student at **Weber State University** and a self-taught developer who codes for the love of the craft — building whatever challenges me, excites me, or just sounds like a really fun problem to solve. Outside the classroom, I'm the founder of **Taste of Freedom** 🍦 — an ice cream business concept I'm building from the ground up, using code as much as cream.
 
-I move at the intersection of **entrepreneur** and **engineer** — still learning, still leveling up, always building.
+Çipher §age is the persona where I go deep — grinding through hard problems, shipping wild ideas, and leveling up one project at a time. Still early in the journey. Still having a blast.
 
 ---
 
@@ -16,7 +16,7 @@ I move at the intersection of **entrepreneur** and **engineer** — still learni
 
 🔭 **[Taste of Freedom](https://github.com/BlkMik3/TasteOfFreedom)** — Ice cream brand platform (menu, ordering, business logic)  
 🌐 **BlkMik3.github.io** — Personal developer portfolio *(coming soon)*  
-📚 **CS @ Weber State** — First year, going deep on fundamentals
+📚 **CS @ Weber State** — Second year, going deep on fundamentals
 
 ---
 
